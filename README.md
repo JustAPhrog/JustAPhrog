@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with `Oracle APEX`
+- 🌱 I’m currently learning `Python`
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mikolaj-wiszenko)
+
+![Codewars](https://www.codewars.com/users/JustAPhrog/badges/large)
+
 <!--
 **JustAPhrog/JustAPhrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

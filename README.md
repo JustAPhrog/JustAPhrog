@@ -10,7 +10,7 @@
 
 📫 How to reach me: 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/mikolaj-wiszenko)
+[LinkedIn Profile](https://linkedin.com/in/mikolaj-wiszenko)
 
 ![Codewars](https://www.codewars.com/users/JustAPhrog/badges/large)
 

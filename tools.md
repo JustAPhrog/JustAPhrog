@@ -13,3 +13,4 @@
 - Keepass
 - 7zip
 - Putty
+- WSL with Ubuntu

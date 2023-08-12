@@ -8,15 +8,11 @@
 ![Bash](https://img.shields.io/badge/Bash-555555.svg?style=for-the-badge&logo=bash)
 ![Git](https://img.shields.io/badge/Git-555555.svg?style=for-the-badge&logo=git)
 ![Java](https://img.shields.io/badge/Java-555555.svg?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3670A0)
 
 ![Docker](https://img.shields.io/badge/Docker-555555.svg?style=for-the-badge&logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-555555.svg?style=for-the-badge&logo=jenkins)
 ![AWS](https://img.shields.io/badge/AWS-RDS-blue?style=for-the-badge&logo=bash)
-
-
-🌱 I’m currently learning:
-
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=3670A0)
 
 📫 How to reach me: 
 
